@@ -1,0 +1,12 @@
+{
+    "nombres": [
+        {
+            "name": "henry",
+            "edad": 30
+        },
+        {
+            "name": "freddy",
+            "edad": 29
+        }
+    ]
+}
